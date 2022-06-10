@@ -1,1 +1,2 @@
-export const PORT = 8080;
+// route version
+export const ROUTE_VERSION: string = "v1";

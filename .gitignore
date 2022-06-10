@@ -3,6 +3,12 @@ node_modules
 client/node_modules
 server/node_modules
 
-# testing
+# lock file
+client/package-lock.json
+server/package-lock.json
 
-# production
+# logs
+server/logs
+
+# documentation
+docs
